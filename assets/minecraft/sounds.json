@@ -1,0 +1,8 @@
+{
+    "entity.generic.explode": {
+        "replace": true,
+        "sounds": [
+            "rfti:nothing"
+        ]
+    }
+}

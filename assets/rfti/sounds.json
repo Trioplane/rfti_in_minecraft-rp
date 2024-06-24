@@ -1,0 +1,93 @@
+{
+    "sfx/kill": {
+        "subtitle": "Killed something",
+        "sounds": [
+            "rfti:sfx/kill"
+        ]
+    },
+    "sfx/mmm_chezburger": {
+        "subtitle": "Mmm, chezburger",
+        "sounds": [
+            "rfti:sfx/mmm_chezburger"
+        ]
+    },
+
+    "music/running_from_the_internet": {
+        "stream": true,
+        "subtitle": "\"Running From The Internet\" plays",
+        "sounds": [
+            "rfti:music/running_from_the_internet"
+        ]
+    },
+    "music/shop": {
+        "stream": true,
+        "subtitle": "\"Shop\" plays",
+        "sounds": [
+            "rfti:music/shop"
+        ]
+    },
+    "music/grace": {
+        "stream": true,
+        "subtitle": "\"Grace\" plays",
+        "sounds": [
+            "rfti:music/grace"
+        ]
+    },
+    "music/gameplay1": {
+        "stream": true,
+        "subtitle": "\"Gameplay I\" plays",
+        "sounds": [
+            "rfti:music/gameplay1"
+        ]
+    },
+    "music/gameplay2": {
+        "stream": true,
+        "subtitle": "\"Gameplay II\" plays",
+        "sounds": [
+            "rfti:music/gameplay2"
+        ]
+    },
+    "music/gameplay3": {
+        "stream": true,
+        "subtitle": "\"Gameplay III\" plays",
+        "sounds": [
+            "rfti:music/gameplay3"
+        ]
+    },
+    "music/spectate": {
+        "stream": true,
+        "subtitle": "\"Spectate\" plays",
+        "sounds": [
+            "rfti:music/spectate"
+        ]
+    },
+    "music/boss": {
+        "stream": true,
+        "subtitle": "\"Boss\" plays",
+        "sounds": [
+            "rfti:music/boss"
+        ]
+    },
+    "music/faded_lobby": {
+        "stream": true,
+        "subtitle": "\"Faded Lobby\" plays",
+        "sounds": [
+            "rfti:music/faded_lobby"
+        ]
+    },
+    "music/random_song": {
+        "stream": true,
+        "subtitle": "A random song plays",
+        "sounds": [
+            "rfti:music/running_from_the_internet",
+            "rfti:music/shop",
+            "rfti:music/grace",
+            "rfti:music/gameplay1",
+            "rfti:music/gameplay2",
+            "rfti:music/gameplay3",
+            "rfti:music/spectate",
+            "rfti:music/boss",
+            "rfti:music/faded_lobby"
+        ]
+    }
+}

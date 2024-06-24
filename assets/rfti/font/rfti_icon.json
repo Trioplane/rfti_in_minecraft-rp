@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "rfti:font/rfti_icon.png",
+            "ascent": 256,
+            "height": 256,
+            "chars": [
+                "\uE001"
+            ]
+        }
+    ]
+}
