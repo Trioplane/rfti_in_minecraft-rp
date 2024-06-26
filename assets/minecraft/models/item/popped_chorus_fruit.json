@@ -4,5 +4,8 @@
       "layer0": "minecraft:item/popped_chorus_fruit"
     },
     "overrides": [
+      { "model": "rfti:item/map/dice/dice", "predicate": { "custom_model_data": 1 } },
+      { "model": "rfti:item/map/dice/question_mark", "predicate": { "custom_model_data": 2 } },
+      { "model": "rfti:item/map/dice/glow", "predicate": { "custom_model_data": 3 } }
     ]
   }

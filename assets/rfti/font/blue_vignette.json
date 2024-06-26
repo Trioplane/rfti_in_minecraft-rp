@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "rfti:font/blue_vignette.png",
+            "ascent": 125,
+            "height": 256,
+            "chars": [
+                "\uE001"
+            ]
+        }
+    ]
+}

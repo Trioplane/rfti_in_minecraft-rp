@@ -5,6 +5,8 @@
     },
     "overrides": [
       { "model": "rfti:item/items/spear", "predicate": { "custom_model_data": 1 } },
-      { "model": "rfti:item/items/crate", "predicate": { "custom_model_data": 2 } }
+      { "model": "rfti:item/items/crate", "predicate": { "custom_model_data": 2 } },
+      { "model": "minecraft:item/snowball", "predicate": { "custom_model_data": 3 } },
+      { "model": "rfti:item/items/speed_cola", "predicate": { "custom_model_data": 4 } }
     ]
   }
