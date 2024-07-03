@@ -1,0 +1,15 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "rfti:font/big_minecraft_five_outlined.png",
+            "ascent": 0,
+            "height": 32,
+            "chars": [
+                "012:",
+                "345\uE000",
+                "6789"
+            ]
+        }
+    ]
+}

@@ -4,9 +4,12 @@
       "layer0": "minecraft:item/amethyst_shard"
     },
     "overrides": [
-      { "model": "rfti:item/items/spear", "predicate": { "custom_model_data": 1 } },
-      { "model": "rfti:item/items/crate", "predicate": { "custom_model_data": 2 } },
-      { "model": "minecraft:item/snowball", "predicate": { "custom_model_data": 3 } },
-      { "model": "rfti:item/items/speed_cola", "predicate": { "custom_model_data": 4 } }
+      { "model": "rfti:item/items/spear", "predicate": { "custom_model_data": 101 } },
+      { "model": "rfti:item/items/crate", "predicate": { "custom_model_data": 102 } },
+      { "model": "minecraft:item/snowball", "predicate": { "custom_model_data": 103 } },
+      { "model": "rfti:item/items/fireworks", "predicate": { "custom_model_data": 104 } },
+
+      { "model": "rfti:item/items/speed_cola", "predicate": { "custom_model_data": 201 } },
+      { "model": "rfti:item/items/chezburger", "predicate": { "custom_model_data": 202 } }
     ]
   }
