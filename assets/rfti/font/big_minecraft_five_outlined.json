@@ -3,7 +3,7 @@
         {
             "type": "bitmap",
             "file": "rfti:font/big_minecraft_five_outlined.png",
-            "ascent": 0,
+            "ascent": 16,
             "height": 32,
             "chars": [
                 "012:",

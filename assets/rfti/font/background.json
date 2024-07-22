@@ -1,0 +1,20 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "rfti:font/background.png",
+            "ascent": 0,
+            "height": 18,
+            "chars": [
+                "0"
+            ]
+        },
+        {
+            "type": "space",
+            "advances": {
+                " ": 40,
+                "x": -1
+            }
+        }
+    ]
+}

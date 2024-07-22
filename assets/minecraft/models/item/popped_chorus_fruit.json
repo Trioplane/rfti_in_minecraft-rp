@@ -8,6 +8,6 @@
       { "model": "rfti:item/map/dice/question_mark", "predicate": { "custom_model_data": 2 } },
       { "model": "rfti:item/map/dice/glow", "predicate": { "custom_model_data": 3 } },
 
-      { "model": "rfti:item/map/fog/white_fog", "predicate": { "custom_model_data": 4 } }
+      { "model": "rfti:item/map/bounce_pad/bounce_pad", "predicate": { "custom_model_data": 4 } }
     ]
   }
